@@ -1,4 +1,4 @@
-# The History of Python @
+# The History of Python #
 
 Python is a popular, high-level, general-purpose programming language known for its simplicity, readability, and versatility. It was created by Guido van Rossum and was first released in 1991. Since then, Python has undergone significant developments and has become one of the most widely used programming languages in the world. Here is a brief history of Python, along with some techniques and thoughts that have contributed to making Python what it is today.
 
